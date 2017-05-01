@@ -1,2 +1,3 @@
 <?php
-phpinfo();
+
+define('PROM', true);
