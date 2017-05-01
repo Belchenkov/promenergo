@@ -6,6 +6,7 @@
     define('CONTROLLER', 'core/controller');
     define('MODEL', 'core/model');
     define('VIEW', 'template/default');
+    define('LIB', 'lib');
     define('SITE_URL', '/');
 
     // Количество выводимых товаров на странице
