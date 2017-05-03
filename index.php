@@ -27,4 +27,7 @@ spl_autoload_register(function ($class) {
     }
 });
 
+$obj = Route_Controller::get_instance();
+$obj->route();
+
 echo '<h1>Index</h1>';

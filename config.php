@@ -7,7 +7,7 @@
     define('MODEL', 'core/model');
     define('VIEW', 'template/default');
     define('LIB', 'lib');
-    define('SITE_URL', '/');
+    define('SITE_URL', '/promenergo/');
 
     // Количество выводимых товаров на странице
     define('QUANTITY', 5);
