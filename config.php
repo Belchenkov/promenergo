@@ -18,6 +18,9 @@
     // Путь к папке с изображениями
     define('UPLOAD_DIR', 'images/');
 
+    // Хранимый размер изображений
+    define('IMG_WIDTH', 116);
+
     // Подклюячение к БД
     define('HOST', 'localhost');
     define('USER', 'root');
